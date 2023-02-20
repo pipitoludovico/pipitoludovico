@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ludovico
 - 👀 I’m interested in computational chemistry, programming, QM and drug discovery!
-- 🌱 I’m currently learning QM, programming and machine learning applied to molecular predictions
+- 🌱 I’m currently working on MD pipelines, SBDD strategies, QM, programming and machine learning applied to molecular predictions
 - 💞️ I’m looking to collaborate on drug discovery using MD, QM or software development using Python or Java!
 - 📫 How to reach me: pipitol@uni.coventry.ac.uk
 
